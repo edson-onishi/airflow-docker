@@ -1,5 +1,5 @@
 # Teste Técnico de Engenharia de Dados
-Este repositório foi criado para mostrar minha solução para o teste ETL proposto por raizen.
+Este repositório foi criado para mostrar minha solução para o teste ETL proposto pela Esfera.
 
 ## Arquitetura:
 O Google Colab foi usado para criar o pipeline e o BigQuery para armazenamento.
