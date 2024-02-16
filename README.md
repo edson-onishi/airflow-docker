@@ -28,7 +28,7 @@ Como se trata no final das contas de um Jupyter Notebook, é possével utilizar 
 
 
 
-> **Para abrir o código diretamente no Google Colab por favor [clique aqui.](https://colab.research.google.com/drive/1jQ8l0p3irrfhwJOCRr-5i60SYhdQxZmK)**
+> **Para abrir o código diretamente no Google Colab por favor [clique aqui.](https://colab.research.google.com/drive/1oJCFD1esV1KguaA9yeBez74r1OlS9gYc)**
 
 
 ## Schema e o Preview da Junção da tabela chamada df
